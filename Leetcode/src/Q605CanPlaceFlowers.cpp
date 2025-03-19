@@ -56,8 +56,8 @@ public:
 };
 
 
-int main(int argc, char *argv[]) {
-    Solution s;
-    vector flowerbed = {0};
-    cout << s.canPlaceFlowers(flowerbed, 1) << endl;
-}
+// int main(int argc, char *argv[]) {
+//     Solution s;
+//     vector flowerbed = {0};
+//     cout << s.canPlaceFlowers(flowerbed, 1) << endl;
+// }
