@@ -11,4 +11,5 @@ add_executable(Leetcode
         Leetcode/src/Q345ReverseVowelsOfAString.cpp
         Leetcode/src/Q151ReverseWordsInAString.cpp
         Leetcode/src/Q238ProductOfArrayExpectSelf.cpp
-        Leetcode/src/Q334IncreasingTripletSubsequence.cpp)
+        Leetcode/src/Q334IncreasingTripletSubsequence.cpp
+        Leetcode/src/Q443StringCompression.cpp)
