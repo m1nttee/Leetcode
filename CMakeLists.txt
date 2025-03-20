@@ -12,4 +12,8 @@ add_executable(Leetcode
         Leetcode/src/Q151ReverseWordsInAString.cpp
         Leetcode/src/Q238ProductOfArrayExpectSelf.cpp
         Leetcode/src/Q334IncreasingTripletSubsequence.cpp
-        Leetcode/src/Q443StringCompression.cpp)
+        Leetcode/src/Q443StringCompression.cpp
+        Leetcode/src/Q283MoveZeros.cpp
+        Leetcode/src/Q392IsSubsequence.cpp
+        Leetcode/src/Q11ContainerWithMostWater.cpp
+        Leetcode/src/Q1679MaxNumberOfKSumPairs.cpp)

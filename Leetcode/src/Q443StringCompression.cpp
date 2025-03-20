@@ -56,9 +56,9 @@ public:
     }
 };
 
-int main(int argc, char *argv[]) {
-    Solution s;
-    vector<char> a = vector<char>{'a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a'};
-    cout << s.compress(a) << endl;
-    for_each(begin(a), end(a), [](char &c) { std::cout << c << ", "; });
-}
+// int main(int argc, char *argv[]) {
+//     Solution s;
+//     vector<char> a = vector<char>{'a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a'};
+//     cout << s.compress(a) << endl;
+//     for_each(begin(a), end(a), [](char &c) { std::cout << c << ", "; });
+// }
