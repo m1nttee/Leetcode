@@ -46,12 +46,12 @@ public:
 };
 
 
-int main(int argc, char *argv[]) {
-    Solution s;
-    vector asteroids = {5, 10, -5};
-    auto result = s.asteroidCollision(asteroids);
-    for (auto i: result) {
-        cout << i << " ";
-    }
-    cout << endl;
-}
+// int main(int argc, char *argv[]) {
+//     Solution s;
+//     vector asteroids = {5, 10, -5};
+//     auto result = s.asteroidCollision(asteroids);
+//     for (auto i: result) {
+//         cout << i << " ";
+//     }
+//     cout << endl;
+// }
