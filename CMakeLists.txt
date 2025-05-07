@@ -29,4 +29,5 @@ add_executable(Leetcode
         Leetcode/src/Q2352EqualPairs.cpp
         Leetcode/src/Q2390RemoveStars.cpp
         Leetcode/src/Q735AsteroidCollision.cpp
-        Leetcode/src/Q394DecodingString.cpp)
+        Leetcode/src/Q394DecodingString.cpp
+        Leetcode/src/Q933recentCounterFree.c)

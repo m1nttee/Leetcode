@@ -6,7 +6,6 @@
 #include <algorithm>
 #include <iostream>
 #include<string>
-#include <bits/ranges_algo.h>
 using namespace std;
 
 class Solution {

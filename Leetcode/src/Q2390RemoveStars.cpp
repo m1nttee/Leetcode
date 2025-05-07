@@ -6,7 +6,6 @@
 #include<random>
 #include <stack>
 #include<string>
-#include <bits/ranges_algo.h>
 using namespace std;
 
 class Solution {

@@ -55,7 +55,7 @@ public:
     }
 };
 
-int main(int argc, char *argv[]) {
-    Solution s;
-    cout << s.decodeString("3[a]2[bc]") << endl;
-}
+// int main(int argc, char *argv[]) {
+//     Solution s;
+//     cout << s.decodeString("3[a]2[bc]") << endl;
+// }
