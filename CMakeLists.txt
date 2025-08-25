@@ -30,4 +30,10 @@ add_executable(Leetcode
         Leetcode/src/Q2390RemoveStars.cpp
         Leetcode/src/Q735AsteroidCollision.cpp
         Leetcode/src/Q394DecodingString.cpp
-        Leetcode/src/Q933recentCounterFree.c)
+        Leetcode/src/Q933recentCounterFree.c
+        Leetcode/src/Q649PredictPartyVictory.cpp
+        Leetcode/src/Q2095DeleteMiddle.cpp
+        Leetcode/src/Q328OddEvenList.cpp
+        Leetcode/src/Q206ReverseList.cpp
+        Leetcode/src/Q2130PairSum.cpp
+)
