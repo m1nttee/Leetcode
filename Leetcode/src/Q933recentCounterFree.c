@@ -67,37 +67,37 @@ void recentCounterFree(RecentCounter *obj) {
  * recentCounterFree(obj);
 */
 
-int main(int argc, char *argv[]) {
-    RecentCounter *recentCounter = recentCounterCreate();
-    if (recentCounter == NULL) {
-        return -1;
-    }
-    const int p1 = recentCounterPing(recentCounter, 1);
-    if (p1 == -1) {
-        recentCounterFree(recentCounter);
-        return -1;
-    }
-    const int p2 = recentCounterPing(recentCounter, 100);
-    if (p2 == -1) {
-        recentCounterFree(recentCounter);
-        return -1;
-    }
-    const int p3 = recentCounterPing(recentCounter, 3001);
-    if (p3 == -1) {
-        recentCounterFree(recentCounter);
-        return -1;
-    }
-    const int p4 = recentCounterPing(recentCounter, 3002);
-    if (p4 == -1) {
-        recentCounterFree(recentCounter);
-        return -1;
-    }
-
-    printf("%d\n", p1);
-    printf("%d\n", p2);
-    printf("%d\n", p3);
-    printf("%d\n", p4);
-
-    recentCounterFree(recentCounter);
-    return 0;
-}
+// int main(int argc, char *argv[]) {
+//     RecentCounter *recentCounter = recentCounterCreate();
+//     if (recentCounter == NULL) {
+//         return -1;
+//     }
+//     const int p1 = recentCounterPing(recentCounter, 1);
+//     if (p1 == -1) {
+//         recentCounterFree(recentCounter);
+//         return -1;
+//     }
+//     const int p2 = recentCounterPing(recentCounter, 100);
+//     if (p2 == -1) {
+//         recentCounterFree(recentCounter);
+//         return -1;
+//     }
+//     const int p3 = recentCounterPing(recentCounter, 3001);
+//     if (p3 == -1) {
+//         recentCounterFree(recentCounter);
+//         return -1;
+//     }
+//     const int p4 = recentCounterPing(recentCounter, 3002);
+//     if (p4 == -1) {
+//         recentCounterFree(recentCounter);
+//         return -1;
+//     }
+//
+//     printf("%d\n", p1);
+//     printf("%d\n", p2);
+//     printf("%d\n", p3);
+//     printf("%d\n", p4);
+//
+//     recentCounterFree(recentCounter);
+//     return 0;
+// }

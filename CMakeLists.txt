@@ -36,4 +36,17 @@ add_executable(Leetcode
         Leetcode/src/Q328OddEvenList.cpp
         Leetcode/src/Q206ReverseList.cpp
         Leetcode/src/Q2130PairSum.cpp
+        Leetcode/src/Q104MaxDepth.cpp
+        Leetcode/src/Q872LeafSimilar.cpp
+        Leetcode/src/Q1448GoodNodes.cpp
+        Leetcode/src/Q437PathSum.cpp
+        Leetcode/src/Q1372LongestZigZag.cpp
+        Leetcode/src/Q236LowestCommonAncestor.cpp
+        Leetcode/src/Q199RightSideView.cpp
+        Leetcode/src/Q1161MaxLevelSum.cpp
+        Leetcode/src/Q700SearchBST.cpp
+        Leetcode/src/Q450DeleteNode.cpp
+        Leetcode/src/Q841CanVisitAllRoom.cpp
+        Leetcode/src/Q547FindCircleNum.cpp
+        Leetcode/src/Q1466MinReorder.cpp
 )
