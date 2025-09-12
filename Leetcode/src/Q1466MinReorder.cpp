@@ -41,16 +41,3 @@ public:
         return reversed;
     }
 };
-
-int main(int argc, char *argv[]) {
-    Solution s;
-    vector<vector<int> > connections;
-    // [[0,1],[1,3],[2,3],[4,0],[4,5]]
-    connections.push_back(vector<int>({0, 1}));
-    connections.push_back(vector<int>({1, 3}));
-    connections.push_back(vector<int>({2, 3}));
-    connections.push_back(vector<int>({4, 0}));
-    connections.push_back(vector<int>({4, 5}));
-    printf("%d\n", s.minReorder(3, connections));
-    return 0;
-}

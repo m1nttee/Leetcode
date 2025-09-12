@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.30)
+cmake_minimum_required(VERSION 3.20)
 project(Leetcode)
 
 set(CMAKE_CXX_STANDARD 23)
@@ -49,4 +49,15 @@ add_executable(Leetcode
         Leetcode/src/Q841CanVisitAllRoom.cpp
         Leetcode/src/Q547FindCircleNum.cpp
         Leetcode/src/Q1466MinReorder.cpp
+        Leetcode/src/Q399CalcEquation.cpp
+        Leetcode/src/Q1926NearestExit.cpp
+        Leetcode/src/Q994OrangesRotting.cpp
+        Leetcode/src/Q215FindKthLargest.cpp
+        Leetcode/src/Q2336SmallestInfiniteSet.cpp
+        Leetcode/src/Q33Search.cpp
+        Leetcode/src/Q2598FindSmallestInteger.cpp
+        Leetcode/src/Q2598FindSmallestInteger.cpp
+        Leetcode/src/Q121MaxProfit.cpp
+        Leetcode/src/Q121MaxProfit.cpp
+        Leetcode/src/Q146LRUCache.cpp
 )
