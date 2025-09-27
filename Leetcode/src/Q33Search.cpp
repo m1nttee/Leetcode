@@ -36,11 +36,3 @@ public:
     }
 };
 
-
-int main(int argc, char *argv[]) {
-    // 4,5,6,7,0,1,2
-    auto s = Solution();
-    vector<int> nums = {4, 5, 6, 7, 0, 1, 2};
-    auto ans = s.search(nums, 0);
-    printf("%d\n", ans);
-}

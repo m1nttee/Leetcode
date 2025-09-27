@@ -60,4 +60,30 @@ add_executable(Leetcode
         Leetcode/src/Q121MaxProfit.cpp
         Leetcode/src/Q121MaxProfit.cpp
         Leetcode/src/Q146LRUCache.cpp
+        Leetcode/src/Q743NetworkDelayTime.cpp
+        Leetcode/src/Q2542MaxScore.cpp
+        Leetcode/src/Q2462TotalCost.cpp
+        Leetcode/src/Q374GuessNumber.cpp
+        Leetcode/src/Q2300SuccessfulPairs.cpp
+        Leetcode/src/Q162FindPeakElement.cpp
+        Leetcode/src/Q1137Tribonacci.cpp
+        Leetcode/src/QMinCostClimbingStairs.cpp
+        Leetcode/src/Q198Rob.cpp
+        Leetcode/src/Q790NumTilings.cpp
+        Leetcode/src/Q62UniquePath.cpp
+        Leetcode/src/Q875MinEatingSpeed.cpp
+        Leetcode/src/Q17LetterCombinations.cpp
+        Leetcode/src/Q216CombinationSum3.cpp
+        Leetcode/src/Q338CountBits.cpp
+        Leetcode/src/Q1143LongestCommonSubsequence.cpp
+        Leetcode/src/Q714MaxProfit.cpp
+        Leetcode/src/Q72MinDistance.cpp
+        Leetcode/src/Q136SingleNumber.cpp
+        Leetcode/src/Q1318MinFlips.cpp
+        Leetcode/src/Q208Trie.cpp
+        Leetcode/src/Q1268SuggestedProducts.cpp
+        Leetcode/src/Q435EraseOverlapIntervals.cpp
+        Leetcode/src/Q452FindMinArrowShots.cpp
+        Leetcode/src/Q739DailyTempratures.cpp
+        Leetcode/src/Q901StockSpanner.cpp
 )
