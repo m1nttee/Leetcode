@@ -86,4 +86,17 @@ add_executable(Leetcode
         Leetcode/src/Q452FindMinArrowShots.cpp
         Leetcode/src/Q739DailyTempratures.cpp
         Leetcode/src/Q901StockSpanner.cpp
+        Leetcode/src/Q88Merge.cpp
+        Leetcode/src/Q27RemoveElement.cpp
+        Leetcode/src/Q26RemoveDuplicates.cpp
+        Leetcode/src/Q80RemoveDuplicates.cpp
+        Leetcode/src/Q169MajorityElement.cpp
+        Leetcode/src/Q189RotateArray.cpp
+        Leetcode/src/Q122MaxProfit.cpp
+        Leetcode/src/Q55CanJump.cpp
+        Leetcode/src/Q45Jump.cpp
+        Leetcode/src/Q274HIndex.cpp
+        Leetcode/src/Q380RandomizedSet.cpp
+        Leetcode/src/Q134CanCompleteCircuit.cpp
+        Leetcode/src/Q135Candy.cpp
 )

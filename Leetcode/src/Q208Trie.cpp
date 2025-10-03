@@ -78,10 +78,3 @@ public:
         return true;
     }
 };
-
-int main(int argc, char *argv[]) {
-    auto trie = Trie();
-    trie.insert("hello");
-    std::cout << trie.search("hello") << std::endl;
-    return 0;
-}
